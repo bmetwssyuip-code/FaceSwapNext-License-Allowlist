@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "issued_utc": "2026-10-02T10:19:38.011337-04:00",
+  "expires_utc": null,
+  "devices": [
+    {
+      "device_hash": "FBF32B2F8BDF724992C1D2211BE39D69C37234CB8C73910075389B3572C30A96",
+      "status": "active"
+    }
+  ],
+  "signature": "iD0isGNX+ZLij86zdcv88auwbkzGAN56cwbuHy7r4ZSDR6OtSyLHA4pH+WhDDqtTnhskGmk4/0zvbi8JSeoF/YDEeYHEa0+Re2b4awRD/nodND5T09PuvYoup7atv6tiTZ6Ah9u1wN/ZScTGQv2wKx7Hpz5ihP4hUMPcmtxkOclGH51hbk0iKdIHnjqKDCDmTbtDmK1KTL20UHm+LG1LKAQ9ctdWtsor2B+nTXwyv3NnxCGGGQk4pYHevBNV4zPBdndljr8Iw5A0oXXlYGERpqTOFtxgaXutkxmk+ajcRDqI5uCRVa3RW+l9gevgGaARy2yKlgoOKg2UeU12mYlhuZ9ABfac2d2c0IZaeHSlaNC+M6ffVeRkx9bKRg+bzNEwN2lL9SwowfABszCbK8wAq8EYb92Ma5BA/C3x0DkeZVsexiMO0DZ4w1NN+gXuwl7QEZfXUoNNh/AX7Wk5XB0ZlH81XQ96cLLFOFfwHbgwNB2n/kIPo1C5FMrLvserLfEv"
+}

@@ -1,0 +1,6 @@
+*.pem
+*.key
+*.pfx
+*.p12
+.env*
+license.json
